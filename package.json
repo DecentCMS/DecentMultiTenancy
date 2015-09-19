@@ -1,0 +1,19 @@
+{
+  "name": "decent-multi-tenancy",
+  "friendlyName": "Decent Multi-tenancy",
+  "version": "0.1.1",
+  "description": "Lightweight multi-tenancy for Node. Built for DecentCMS, but works anywhere. No dependencies.",
+  "main": "./index",
+  "scripts": {
+    "test": "./test/index"
+  },
+  "author": "Bertrand Le Roy",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "*",
+    "grunt-mocha-test": "*",
+    "mocha": "*",
+    "proxyquire": "*"
+  },
+  "dependencies": {}
+}
