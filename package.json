@@ -1,8 +1,11 @@
 {
   "name": "decent-multi-tenancy",
   "friendlyName": "Decent Multi-tenancy",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Lightweight multi-tenancy for Node. Built for DecentCMS, but works anywhere. No dependencies.",
+  "homepage": "https://github.com/DecentCMS/DecentMultiTenancy",
+  "bugs": "https://github.com/DecentCMS/DecentMultiTenancy/issues",
+  "engines" : { "node" : ">=4.0.0" },
   "main": "./index",
   "scripts": {
     "test": "./test/index"
